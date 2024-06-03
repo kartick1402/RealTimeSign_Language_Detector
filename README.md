@@ -4,8 +4,9 @@ This is a model for the Real Time Sign Language Detector.
 
 ## To simply run this model:
 1. Clone this repository
-2. Run the app.py file by typing " python -m streamlit run app.py ", it will work on streamlit directly
-3. View Results
+2. Install all the neccessary modules used in the code file
+3. Run the app.py file by typing " python -m streamlit run app.py ", it will work on streamlit directly
+4. View Results
 
 # Below is the link for the Video for Sign Language Model Execution
 
